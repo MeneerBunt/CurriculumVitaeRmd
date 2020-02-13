@@ -4,7 +4,7 @@ This repo contains the source-code and results of my CV built with the [pagedown
 
 The main files are:
 
-- `Resume.Marco.Bunt.Rmd`: mu cv, nerd style cv.
+- `Resume.Marco.Bunt.Rmd`: my cv, nerd style cv.
 - `Resume.Marco.Bunt.html`: The final output of the cv.
 - `positions.csv`: A csv with columns encoding the various fields needed for a position entry in the CV. A column `section` is also available so different sections know which rows to use.
 - `css/`: Directory containing the custom CSS files used to tweak the default 'resume' format from pagedown. 
