@@ -53,11 +53,11 @@ Rotterdam, `r format(Sys.time(), "%d %b, %Y")`
 
 Beste heer `r Adress$sirname`,
 
-Na een tijd bij verschillende netbeheerders te hebben gewerkt, ben ik toe aan een nieuwe rol in de energietransitie. Ik wil sturen in het optreden van overheden en andere betrokkenen in de energietransitie, en ik wil werken aan systeemintegratie. Naast duurzame opwek gaat de transitie ook over verbindingen tussen sectoren, seizoenen en technologieën. Betrokken partijen dienen ieder een rol te vervullen om de energietransitie tot een succes te maken. Om succesvol te kunnen handelen is het belangrijk de betrokkenen samen te brengen en te voorzien van kennis en informatie. 
+Na een tijd bij verschillende netbeheerders te hebben gewerkt, ben ik toe aan een nieuwe rol in de energietransitie. Ik wil sturing geven bij  het optreden  van overheden en andere betrokkenen in de energietransitie, en ik wil werken aan systeemintegratie. Naast duurzame opwek gaat de transitie ook over verbindingen tussen sectoren, seizoenen en technologieën. Betrokken partijen dienen ieder een rol te vervullen bij het tot een succes maken van de energietransitie. Hierbij is  het belangrijk de betrokkenen samen te brengen en te voorzien van kennis en informatie. Hier wil ik graag aan meewerken.
 
-Ik zie dat `r Adress$org` een centrale rol speelt in de energietransitie. Zo ben ik vanuit mijn huidige functie betrokken bij de werkgroep Infrastructuurverkenning 3050 van Netbeheer Nederland. `r Adress$org` heeft de scenariostudie is gemaakt voor deze werkgroep. Door de manier waarop deze studie is opgesteld worden verschillende sectoren samengebracht en worden duidelijke stappen gezet richting systeemintegratie. Hier zou ik graag actiever aan mee willen werken. Dit is de reden van mijn sollicitatie voor de functie `r Adress$func`. 
+Ik zie dat `r Adress$org` een centrale rol speelt in de energietransitie. Zo ben ik vanuit mijn huidige functie betrokken bij de werkgroep Infrastructuurverkenning 3050 van Netbeheer Nederland. `r Adress$org` heeft de scenariostudie gemaakt voor deze werkgroep. Door de manier waarop deze studie is opgesteld worden verschillende sectoren samengebracht en worden duidelijke stappen gezet richting systeemintegratie. Hier zou ik graag actiever   aan mee willen werken. Dat is de reden van mijn sollicitatie voor de functie `r Adress$func`.
 
-Door mijn vaardigheden als socioloog, data scientist en werkervaringen bij netbeheerders begrijp ik de krachvelden in de energiewereld. Dat maakt mij een geschikte kandidaat voor deze functie. Ik ben goed in het in het oplossen van complexe vraagstukken, waarbij ik gebruik maak van zowel mijn communicatieve als analytische vaardigheden. Ik beschik over specialistische kennis van de energietransitie, en ben daarbij ook in staat om te generaliseren, te organiseren en te verbinden. Op grond van mijn positieve werkervaringen verwacht ik mij goed te kunnen aanpassen aan de eisen en taken binnen `r Adress$org`. Daarom hoop ik dat u mij uitnodigt voor een gesprek, zodat ik mijn enthousiasme voor `r Adress$org` en voor deze functie verder kan toelichten.
+Door mijn vaardigheden als socioloog, data scientist en door mijn werkervaringen  bij netbeheerders begrijp ik de krachtvelden  in de energiewereld. Dat maakt mij een geschikte kandidaat voor de functie `r Adress$func`. Ik ben goed in het in het oplossen van complexe vraagstukken, waarbij ik gebruik maak van zowel mijn communicatieve als analytische vaardigheden. Ik beschik over specialistische kennis van de energietransitie en  ben daarbij ook in staat om te generaliseren, te organiseren en te verbinden. Op grond van mijn positieve werkervaringen verwacht ik mij goed te kunnen aanpassen aan de eisen en taken als `r Adress$func`. Daarom hoop ik dat u mij uitnodigt voor een gesprek, zodat ik mijn enthousiasme voor `r Adress$org` en voor deze functie verder kan toelichten.
 
 
 Met vriendelijke groet ,
@@ -65,5 +65,4 @@ Met vriendelijke groet ,
 Marco Bunt
 
 
-Bijlage: Curriculum Vitae 
-
+Bijlage: Curriculum Vitae
