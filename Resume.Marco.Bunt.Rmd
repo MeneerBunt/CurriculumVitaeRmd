@@ -59,8 +59,8 @@ Contact {#contact}
 
 - <i class="fas fa-home"></i> 3052 XG, 124, Rotterdam 
 - <i class="fa fa-envelope"></i> marcobunt@gmail.com
+- <i class="fa fa-github"></i> [github.com/MeneerBunt](https://github.com/MeneerBunt)
 - <i class="fab fa-linkedin"></i> [linkedin.com](https://www.linkedin.com/in/marco-bunt-47a2893a/?originalSubdomain=nl)
-- <i class="fa fa-github"></i> github.com/MeneerBunt
 - <i class="fa fa-phone"></i> (+31) 623854643
 - <i class="fas fa-user"></i> 06-10-1987
 
@@ -72,8 +72,8 @@ skills <- tribble(
   ~skill,               ~level,
   "Analytics (Python, R, SQL) ", 4.75,
   "Communication (EN, NL)",  4.6,
-  "Maintenance enginering", 4,
-  "Research", 4.2,
+  "Maintenance enginering", 4.4,
+  "Research", 4.3,
   "Sociology", 4.1,
   "Sustainability", 4.55
   
